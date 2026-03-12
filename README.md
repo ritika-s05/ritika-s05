@@ -227,7 +227,7 @@ IoT-enabled farming with real-time sensor analytics and automated monitoring for
  
 **Open to full-time roles in Data Analytics · Analytics Engineering · Business Intelligence · Machine Learning**
  
-[![Connect on LinkedIn](https://img.shields.io/badge/Let's_Connect-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Connect on LinkedIn](https://img.shields.io/badge/Let's_Connect-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritikaa-s)
  
 </div>
  
