@@ -67,16 +67,16 @@ I build at the intersection of **data engineering, analytics, and machine learni
 
 ## 💼 Experience
 
-### 🔬 Statistics Research Student Assistant — *California State University Long Beach*
-`Aug 2024 – Present` · Long Beach, CA
+### 🔬 Statistics Research Assistant — *California State University Long Beach*
+`Jan 2024 – Present` · Long Beach, CA
 
-Applied research and instruction in statistical analysis — probability, regression, ANOVA, chi-square, and hypothesis testing. Building Python and Excel-based tools for data modeling, statistical inference, and exploratory data analysis.
+Applied research and instruction in statistical analysis - probability, regression, ANOVA, chi-square, and hypothesis testing. Building Python and Excel-based tools for data modeling, statistical inference, and exploratory data analysis.
 
 `Python` · `Statistical Analysis` · `Hypothesis Testing` · `Data Modeling` · `Excel`
 
 ---
 
-### 📊 IT Business Analyst — *Mutual Groups*
+### 📊 Business Data Analyst — *Mutual Group*
 `May 2025 – Aug 2025` · California, USA
 
 - Developed AI-enabled CRM workflow automations using Python and SQL → **73% operational efficiency gain**
@@ -98,7 +98,7 @@ Applied research and instruction in statistical analysis — probability, regres
 
 ---
 
-### 🤖 Artificial Intelligence Researcher — *AI India Innovations*
+### 🤖 AI Researcher — *AI India Innovations*
 `Jun 2023 – Dec 2023` · Pune, India
 
 - Built real-time gas-cylinder detection using CNNs + NVIDIA video analytics → **90% detection accuracy**
