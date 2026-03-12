@@ -215,10 +215,12 @@ IoT-enabled farming with real-time sensor analytics and automated monitoring for
 
 ## 🎓 Education
 
-🎓 **MS Information Systems** · California State University Long Beach · Aug 2024 – May 2026 · GPA **3.70**
+**Masters in Information Systems** 
+· California State University Long Beach · Aug 2024 – May 2026 · GPA **3.70**
 *Machine Learning · Data Science · Business Intelligence*
 
-🎓 **B.Tech Electronics & Telecommunication** · Vishwakarma Institute of Technology · Nov 2020 – May 2024 · GPA **3.5**
+**B.Tech Electronics & Telecommunication** 
+· Vishwakarma Institute of Technology · Nov 2020 – May 2024 · GPA **3.5**
 *Internet of Things · Financial Analysis · Computer Vision*
 
 ---
