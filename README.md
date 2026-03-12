@@ -224,20 +224,6 @@ IoT-enabled farming with real-time sensor analytics and automated monitoring for
 *Internet of Things · Financial Analysis · Computer Vision*
 
 ---
-
-## 📊 GitHub Stats
- 
-<div align="center">
- 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=ritika-s05&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=E879A0&icon_color=E879A0"/>
-&nbsp;&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritika-s05&layout=compact&theme=github_dark&hide_border=true&title_color=E879A0"/>
- 
-</div>
- 
----
- 
-<div align="center">
  
 **Open to full-time roles in Data Analytics · Analytics Engineering · Business Intelligence · Machine Learning**
  
