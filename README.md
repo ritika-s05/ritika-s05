@@ -19,7 +19,7 @@ MS Information Systems @ **California State University Long Beach**, B.Tech Elec
 
 I build at the intersection of **data engineering, analytics, and machine learning** — writing the pipelines, training the models, building the dashboards, and then walking a non-technical stakeholder through exactly what it means for their business.
 
-> 📄 **2× IEEE Published** &nbsp;|&nbsp; 🏆 **Alteryx Datathon 2024 Finalist** &nbsp;|&nbsp; 🇮🇳 **Smart India Hackathon National Finalist** &nbsp;|&nbsp; 📍 Long Beach, CA
+> **2× IEEE Published** &nbsp;|&nbsp; 🏆 **Datathon Finalist** &nbsp;|&nbsp; **Smart India Hackathon National Finalist** &nbsp;|&nbsp; 📍 California, USA 
 
 ---
 
