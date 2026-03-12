@@ -15,8 +15,6 @@
 
 ## 👩‍💻 About Me
 
-MS Information Systems @ **California State University Long Beach**, B.Tech Electronics & Telecommunication @ **Vishwakarma Institute of Technology**.
-
 I build at the intersection of **data engineering, analytics, and machine learning** — writing the pipelines, training the models, building the dashboards, and then walking a non-technical stakeholder through exactly what it means for their business.
 
 > **2× IEEE Xplore: Published Research Paper** &nbsp;|&nbsp; **Datathon Finalist** &nbsp;|&nbsp; **Smart India Hackathon Finalist** &nbsp;|&nbsp; 📍 California, USA 
