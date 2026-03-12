@@ -6,7 +6,7 @@
 *Transforming complex data into decisions that move businesses forward*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23E879A0.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://analytics-craft.preview.emergentagent.com/)
+
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
@@ -15,7 +15,7 @@
 
 ## 👩‍💻 About Me
 
-MS Information Systems @ **California State University Long Beach** (GPA 3.60), previously B.Tech Electronics & Telecommunication @ **Vishwakarma Institute of Technology** (GPA 3.48).
+MS Information Systems @ **California State University Long Beach**, B.Tech Electronics & Telecommunication @ **Vishwakarma Institute of Technology**.
 
 I build at the intersection of **data engineering, analytics, and machine learning** — writing the pipelines, training the models, building the dashboards, and then walking a non-technical stakeholder through exactly what it means for their business.
 
@@ -113,6 +113,45 @@ Applied research and instruction in statistical analysis — probability, regres
 
 ## 🚀 Projects
 
+---
+ 
+### ⚙️ Data Engineering & Analytics
+ 
+#### 🥐 [Bakery Analytics — End-to-End Data Engineering + ML](https://github.com/ritika-s05/bakery-analytics)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square) ![LightGBM](https://img.shields.io/badge/LightGBM-2ECC71?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+ 
+A production-grade end-to-end data pipeline and ML system that helps bakeries make smarter decisions about **inventory, staffing, and demand forecasting** — reducing waste, cutting labor costs, and maximizing profit.
+ 
+- Built a **Snowflake medallion architecture** (Bronze → Silver → Gold) as the data warehouse backbone
+- Trained and ensembled **XGBoost & LightGBM** models for multi-horizon demand forecasting
+- Dockerized and deployed as a live interactive dashboard on **Hugging Face Spaces** — accessible from anywhere, no setup required
+ 
+🚀 **[Live Demo on Hugging Face](#)** · [Code](https://github.com/ritika-s05/bakery-analytics)
+ 
+---
+
+#### 🚕 [NYC Taxi Ride Analytics — 9 Million Trips](https://github.com/ritika-s05/Nyc_taxi_ride-Analytics)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Data Engineering](https://img.shields.io/badge/Data_Engineering-0078D4?style=flat-square)
+ 
+End-to-end data analytics project analyzing **9 million NYC Yellow Taxi trips** to uncover demand patterns, fare trends, and operational insights across the city's boroughs.
+ 
+- Processed and cleaned a 9M-row dataset with scalable ETL pipelines
+- Surfaced peak demand windows, high-revenue corridors, and trip duration distributions
+- Built dashboards enabling borough-level and time-based drill-down analysis
+ 
+[Code](https://github.com/ritika-s05/Nyc_taxi_ride-Analytics)
+ 
+---
+ 
+#### 🤫 [Quell-AI — Conversational AI Experience Site](https://github.com/JohnVimrish/quell-ai)
+![LLM](https://img.shields.io/badge/LLM-A259FF?style=flat-square) ![AI Product](https://img.shields.io/badge/AI_Product-E879A0?style=flat-square) ![Web](https://img.shields.io/badge/Web-0078D4?style=flat-square)
+ 
+*Calm your calls, tame your texts.* Contributed to the interactive marketing experience for **Quell-AI** — a communicator copilot that auto-attends calls and texts on your behalf, filters spam, and delivers trustworthy summaries while keeping privacy front and center.
+ 
+[Code](https://github.com/JohnVimrish/quell-ai)
+ 
+---
+
 ### 🤖 [Agentic AI Chatbot System](#)
 ![LLM](https://img.shields.io/badge/LLM-A259FF?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-E879A0?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
@@ -162,13 +201,6 @@ IoT-enabled farming with real-time sensor analytics and automated monitoring for
 
 ---
 
-### 🏠 [House Price Prediction](#)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square) ![Regression](https://img.shields.io/badge/Regression-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-Predicted sale prices across 79 features using XGBoost — **88% R²** on test set, **31% RMSE reduction** vs. baseline through feature engineering.
-
----
-
 ## 📄 Publications & 🏆 Achievements
 
 **IEEE Publications**
@@ -185,30 +217,31 @@ Predicted sale prices across 79 features using XGBoost — **88% R²** on test s
 
 ## 🎓 Education
 
-🎓 **MS Information Systems** · California State University Long Beach · Aug 2024 – May 2026 · GPA **3.60**
+🎓 **MS Information Systems** · California State University Long Beach · Aug 2024 – May 2026 · GPA **3.70**
 *Machine Learning · Data Science · Business Intelligence*
 
-🎓 **B.Tech Electronics & Telecommunication** · Vishwakarma Institute of Technology · Nov 2020 – May 2024 · GPA **3.48**
+🎓 **B.Tech Electronics & Telecommunication** · Vishwakarma Institute of Technology · Nov 2020 – May 2024 · GPA **3.5**
 *Internet of Things · Financial Analysis · Computer Vision*
 
 ---
 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-
+ 
 <img height="155" src="https://github-readme-stats.vercel.app/api?username=ritika-s05&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=E879A0&icon_color=E879A0"/>
 &nbsp;&nbsp;
 <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritika-s05&layout=compact&theme=github_dark&hide_border=true&title_color=E879A0"/>
-
+ 
 </div>
-
+ 
 ---
-
+ 
 <div align="center">
-
+ 
 **Open to full-time roles in Data Analytics · Analytics Engineering · Business Intelligence · Machine Learning**
-
+ 
 [![Connect on LinkedIn](https://img.shields.io/badge/Let's_Connect-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-
+ 
 </div>
+ 
