@@ -188,7 +188,7 @@ Domain-specific GPT text classifier trained on **50K+ samples**, achieving 85% a
 ### 👁️ [Human Activity Recognition System](#)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-A259FF?style=flat-square) ![CNNs](https://img.shields.io/badge/CNNs-0078D4?style=flat-square)
 
-Real-time human activity detection using advanced CV and ML algorithms. Research published in **[IEEE Xplore, April 2023](#)**.
+Real-time human activity detection using advanced CV and ML algorithms. Research published in **[[IEEE Xplore, April 2023](#)](https://ieeexplore.ieee.org/document/10101091)**.
 
 ---
 
